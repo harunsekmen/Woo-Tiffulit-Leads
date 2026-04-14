@@ -1,6 +1,6 @@
 # WooCommerce to Tiffulit Leads for WordPress
 
-WooCommerce to Tiffulit Leads is a custom WordPress plugin that sends WooCommerce order data to a Tiffulit-compatible lead endpoint automatically. It is built for stores that want a simple WooCommerce lead integration, CRM lead sync, and order-to-lead automation without hardcoding API credentials in the plugin code.
+WooCommerce to Tiffulit Leads is a custom WordPress plugin that sends WooCommerce order data to a [Tiffulit](https://tiffulit.co.il/)-compatible lead endpoint automatically. It is built for stores that want a simple WooCommerce lead integration, CRM lead sync, and order-to-lead automation without hardcoding API credentials in the plugin code.
 
 ## WooCommerce Lead Integration Features
 
@@ -70,7 +70,7 @@ The plugin then sends this data to your configured Tiffulit endpoint and records
 
 ## Plugin Use Case
 
-If you need a WooCommerce to CRM integration, WooCommerce webhook alternative, or WordPress lead automation plugin for Tiffulit, this plugin is designed for that workflow.
+If you need a WooCommerce to CRM integration, WooCommerce webhook alternative, or WordPress lead automation plugin for [Tiffulit](https://tiffulit.co.il/), this plugin is designed for that workflow.
 
 ## License
 
